@@ -35,7 +35,7 @@ const Contact = () => {
 	 <img src="/images/footer-left-leaf.png" alt="leaf-left" id="f-left-leaf" />
 	 
 	 <div className="content">
-		<h2>Where to Find Us</h2>
+		<h2>Where to Find Us?</h2>
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
